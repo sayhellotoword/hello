@@ -93,4 +93,19 @@
 
 
 
-
+<html>
+     <style type="text/css">
+     body (background-color:red;)
+     </title>
+</head>
+<body>
+      <h1> welcome to mypod </h1>
+      <p>
+         welcome
+      </p>
+      <h2> welcome </h2>
+      <p>
+         welcome
+      </p>
+</body>      
+</html>
